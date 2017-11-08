@@ -1,4 +1,4 @@
-all: devrandom.c
+all: signal_testing.c
 	gcc signal_testing.c
 
 run: all
